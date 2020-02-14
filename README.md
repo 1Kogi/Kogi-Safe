@@ -1,2 +1,3 @@
-# Kogi-Safe
-# Kogi-Safe
+## Kogi-Safe
+
+Your safety at your fingertip
